@@ -1,0 +1,42 @@
+/* References/bibliography styles */
+
+.bib {
+	padding-top: 1em;
+	width: 580px;
+	color: #222;
+}
+
+.title {
+	font-weight: bold;
+	color: black;
+	font-size: 10pt;
+}
+
+.citation {
+	padding-top: 1em;
+}
+
+.paper {
+	padding-bottom: 1em;
+}
+
+.paper.fl {
+	float: left;
+	padding-left: 3em;
+}
+
+.abstract {
+	padding-right: 1em;
+	padding-left: 1em;
+	padding-bottom: 1.5em;
+}
+
+.abstract h2 {
+	font-variant: small-caps;
+	font-size: 11pt;
+	margin-bottom: 5pt;
+}
+
+.scol {
+	padding-bottom: 1em;
+}

@@ -1,0 +1,384 @@
+
+.fl, .new-col{float:left;}
+.fr{float:right;}
+
+.clear { clear: both; }
+.clearer { clear: both; display: block; margin: 0; padding: 0; height: 0; line-height: 1px; font-size: 1px; }
+
+.nl { list-style-image: none; }
+
+.sc { font-variant: small-caps; }
+
+.wrapper{ min-width: 980px; max-width: 1100px; width: 980px; margin: 0 auto; height: 100%; min-height: 580px;
+}
+
+.inter .wrapper {
+	background: url(../img/ppm_interior_framegraphic.jpg) no-repeat right top;
+}
+
+.header{height: 115px; padding-top: 0; width: 960px; margin: 0 auto auto; z-index: 20; position: relative;
+}
+
+.logo{}
+.logo h1 span{display: none;}
+
+.content{
+	width: 960px;
+	margin: 0 auto;
+	z-index: 20;
+	position: relative;
+	padding-top: 6px;
+	height: auto;
+}
+
+.thumb {
+	position: fixed;
+	display: block;
+	width: 108px;
+	height: auto;
+}
+
+.trademark {
+	color: white;
+	width: 420px;
+	height: 200px;
+	display: block;
+	position: relative;
+	float: right;
+	right: 136px;
+	background: url(../img/levitate_tm.png) no-repeat;
+	top: 370px;
+}
+
+.trademark span {
+	display: none;
+}
+
+.tframe {
+	width: 840px;
+	min-height: 460px;
+	color: black;
+	position: relative;
+	display: block;
+	border: 4.0px solid #8c1828;
+	overflow: auto;
+	background: #fffeff url(../img/positive_schematic.png) no-repeat right 66px;
+}
+
+.tlineart {
+	display: block;
+	left: 8px;
+	background: url(../img/inter_frame.png) no-repeat;
+	width: 813px;
+	height: 111px;
+	top: 0;
+	position: relative;
+	clear: both;
+}
+
+.tlineart img#title {
+	display: block;
+	position: relative;
+	left: 40px;
+	top: 35px;
+}
+
+.tbrochure {
+	display: block;
+	position: absolute;
+	top: 0;
+	right: 8px;
+}
+
+.tiframe {
+	width: 840px;
+	min-height: 1187px;
+	color: black;
+	position: relative;
+	display: block;
+	border: 4.0px solid #8c1828;
+	overflow: auto;
+	background: url(../img/iback_schematics.png) no-repeat right 0 #fffeff;
+}
+
+.detail {
+	padding: 11px;
+}
+
+.scol {
+	width: 720px;
+	padding-bottom: 20px;
+	clear: both;
+	left: 20px;
+	position: relative;
+	display: block;
+}
+
+.scol span {
+	padding-top: 11pt;
+	display: block;
+}
+
+.scol span ol {
+	position: relative;
+	display: block;
+	padding-left: 20px;
+}
+
+.col {
+	width: 340px;
+	display: block;
+	position: relative;
+}
+
+.col h1 {
+	text-align: center;
+}
+.col h2 {
+	font-size: 12pt;
+}
+
+.col img {
+	position: relative;
+	display: block;
+	text-align: center;
+	margin: auto;
+}
+
+.col.fl {
+	left: 20px;
+	clear: both;
+}
+
+.col.fr {
+	right: 80px;
+}
+
+.col span {
+	padding-top: 11pt;
+	display: block;
+	position: relative;
+}
+
+.col span ul {
+	position: relative;
+	display: block;
+	padding-left: 16pt;
+}
+
+.bio {
+	padding-bottom: 12pt;
+	display: inline-block;
+	position: relative;
+	left: 15px;
+}
+
+.bcol {
+	width: 515px;
+	display: block;
+	position: relative;
+	padding-left: 5px;
+	padding-right: 20px;
+}
+
+.bcol h2 {
+	padding-bottom: 10px;
+}
+
+.bcol span {
+	display: block;
+}
+
+.headshot {
+	padding-left: 10px;
+	top: 20px;
+	padding-right: 10px;
+	position: relative;
+}
+
+.headshot img {
+	width: auto;
+	height: auto;
+}
+
+.app {
+	display: inline-block;
+	left: 32px;
+	width: 700px;
+	clear: both;
+	position: relative;
+	padding-bottom: 20px;
+}
+
+.app img {
+	float: left;
+	padding-right: 20px;
+	width: 140px;
+	height: 140px;
+}
+
+.info {
+	float: none;
+}
+
+.idetail {
+	width: 720px;
+	margin-left: 54px;
+	margin-top: 48px;
+}
+
+.idetail h3 {
+	padding-bottom: 10px;
+}
+
+.bpad {
+	padding-bottom: 54px;
+}
+
+.grow {
+	background: url(../img/fgradient_720.png) no-repeat;
+	height: 113px;
+	width: 720px;
+	position: relative;
+	display: block;
+	overflow: hidden;
+}
+
+.heads {
+	position: relative;
+	padding-right: 20px;
+	top: 5px;
+	left: 10px;
+	margin-left: 54px;
+	margin-top: 2px;
+}
+
+.heads img {
+	border: 1px solid white;
+	margin-right: 20px;
+}
+
+.heads ul {
+	display: block;
+	position: relative;
+	margin-left: -33px;
+}
+
+.heads ul li {
+	list-style-type: none;
+	display: block;
+	position: relative;
+}
+
+.heads ul li span {
+	display: none;
+}
+
+.heads li:hover span {
+	display: block;
+	background-color: silver;
+	background-color: rgba(255, 255, 255, 0.9);
+	height: auto;
+	color: black;
+	padding: 2px;
+	position: absolute;
+	border-left-style: dotted;
+	z-index: 1;
+	border-top-style: solid;
+	border-bottom-style: solid;
+	border-right-style: solid;
+	border-top-width: thin;
+	border-right-width: thin;
+	border-bottom-width: thin;
+	font-size: 9pt;
+	left: 100px;
+	top: 0;
+	width: 200px;
+	border-left-width: 1px;
+}
+
+.montage ul {
+	position: relative;
+	padding-top: 5px;
+}
+
+.montage ul li {
+	list-style-type: none;
+	float: left;
+	list-style-position: inside;
+	display: block;
+	position: relative;
+	padding-right: 20;
+}
+
+.montage ul li img {
+	border: 1px solid #BBB;
+	padding: 2px;
+	margin: 10px 20px 10px 0;
+	vertical-align: top;	
+}
+
+.montage img.preview {
+	display: none;	
+}
+
+.montage li:hover img.preview {
+	height: auto;
+	width: auto;
+	position: absolute;
+	display: block;
+	z-index: 1;
+	border-top-style: dotted;
+	border-bottom-style: dotted;
+	border-left-style: dotted;
+	border-left-width: thin;
+	border-bottom-width: thin;
+	border-top-width: thin;
+	top: -12px;
+	left: -12px;
+}
+
+.montage table.images ul li:hover img.preview {
+	height: auto;
+	width: auto;
+	position: absolute;
+	display: block;
+	z-index: 1;
+	border-top-style: dotted;
+	border-bottom-style: dotted;
+	border-left-style: dotted;
+	border-left-width: thin;
+	border-bottom-width: thin;
+	border-top-width: thin;
+	top: -4px;
+	left: -4px;
+}
+
+.heads ul li:hover a {
+	color: navy;
+}
+
+.montage table.images ul {
+	position: relative;
+	display: block;
+	padding-left: 0;
+	padding-top: 5px;
+	margin-bottom: 0;
+}
+
+table.images {
+	position: relative;
+	top: -28px;
+	left: -7px;
+}
+
+table.images ul li img {
+	border: 1px solid #BBB;
+	padding: 2px;
+	vertical-align: top;
+	margin: 0 20px 0 0;
+}
+
+table.images ul li img.last {
+	margin: 0;
+}

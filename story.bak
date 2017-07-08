@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="author" content="Jeff Sickel, Corpus Callosum Corpoation">
+<meta name="robots" content="AAL">
+<meta name="keywords" content="levitation, containerless materials processing, high temperature melts, aero-acoustic levitator">
+<title>Physical Property Measurements: Story</title>
+<link rel="stylesheet" href="css/style.css" type="text/css" media="all" />
+<link rel="stylesheet" href="css/content.css" type="text/css" media="all" />
+<link rel="icon" type="image/x-icon" href="favicon.ico">
+<script src="/js/ga.js" type="text/javascript"></script>
+</head>
+<body class="inter">
+<div class="wrapper">
+<header>
+<div class="header">
+<div class="logo fl">
+<h1><span>Physical Property Measurements</span><a href="index.html"><img src="img/ppm_logo.png" alt="" title="PPM"/></a><img src="img/navframe.png" /></h1>
+</div>
+<div class="menu fl">
+<ul id="nav" class="menu fr" role="navigation">
+	<li class="nl"><a title="Story" href="story.html">Story</a></li>
+	<li><a title="Applications" href="apps.html">Applications</a></li>
+	<li class="subdec"><a title="Media" href="#">Media</a>
+		<ul>
+		<li><a title="Media > Images" href="images.html">Images</a></li>
+		<li><a title="Media > Videos" href="videos.html">Videos</a></li>
+		</ul>
+	</li>
+	<li class="subdec"><a class="hunder" title="Team" href="team.html">Team</a>
+		<ul>
+		<li><a title="Team > Credits" href="credits.html">Credits</a>
+		</li>
+		</ul>
+	</li>
+	<li><a title="Contact" href="contact.html">Contact</a></li>
+</ul>
+</div>
+</div>
+</header>
+
+<article>
+<div class="content">
+<div class="tframe">
+<div class="tlineart fl"><img src="img/story.png" alt="Story" id="title"/></div>
+<div class="tbrochure fr"><a href="docs/aal_brochure.pdf"><img src="img/pdf_doc_icon.png" alt="AAL Brochure" title="AAL Brochure"/></a></div>
+<div class="detail">
+
+<div class="scol">
+<h2>Who is PPM?</h2>
+<span>
+PPM was started by Paul Nordine in 2008, continuing specific R&amp;D formerly
+performed by Containerless Research, Inc. since 1993.
+</span>
+</div>
+
+<div class="scol">
+<h2>What does PPM Do?</h2>
+<span>
+We supply instruments for materials research that apply non-contact methods
+for synthesis, processing, material property measurements and true temperature
+measurements at extreme temperatures.  For example, analyzing liquids at
+temperatures above 3000°C, or deeply undercooled to temperatures far below
+the melting point. PPM's two primary products are the Aero-Acoustic Levitator
+and the Division of Amplitude Photopolarimeter.
+</span>
+</div>
+
+<div class="col fl">
+<h1><img src="img/t_meet_aal.png" alt="meet AAL" id="meet AAL"/></h1>
+<img src="img/meet_aal.jpg" alt=""/>
+<span>
+</span>
+</div>
+<div class="col fr">
+<h1><span class="sc">&nbsp;</span></h1>
+<h2>Aero-Acoustic Levitator</h2>
+<span>
+The AAL<sup>1,2</sup> was developed with support from the U.S. National
+Science Foundation (NSF) during the 1990’s. It is based on
+acoustic<sup>3-6</sup> and gas jet<sup>7-9</sup> levitation technology
+developed during 1970-90 with support from NSF and the U.S. National
+Aeronautics and Space Administration and used in Space Lab experiments.
+The AAL instrument developed by PPM is a complete system with digital
+electronics and controls, kHz optical pyrometry for temperature measurements,
+kHz video recording, and advanced software and algorithms that improve
+performance and control of the instrument.
+</span>
+<span>
+The AAL suspends liquids without a container at temperatures in
+excess of 3000°C.  It allows deep undercooling of liquids to investigate
+material properties under conditions far from phase equilibrium, and to form
+glasses of novel material compositions.
+</span>
+<span>
+Example applications of the AAL are in the study of:
+<ul>
+<li>Materials processing and property measurements at temperature in excess of 3000°C;</li>
+<li>Undercooled liquids at temperatures far-below the melting point</li>
+<li>Liquids that could form in nuclear reactor accidents</li>
+<li>Ceramic superconductors in the liquid state</li>
+<li>Reluctant glass-forming materials</li>
+<li>Volcanic liquids</li>
+<li>Molten effluents of rocket engines</li>
+</ul>
+</span>
+</div>
+</div>
+
+<div class="scol">
+<span></span>
+</div>
+
+<div class="col fl">
+<h1><img src="img/t_doap.png" alt="the DOAP" /></h1>
+<img src="img/meet_doap.jpg" alt=""/>
+<span>
+</span>
+</div>
+<div class="col fr">
+<h1><span class="sc">&nbsp;</span></h1>
+<h2>Division of Amplitude Photopolarimeter</h2>
+<span>
+The DOAP<sup>10,11</sup> obtains emissivity data needed for accurate
+non-contact temperature measurements on levitated samples. It
+does so by an ellipsometric measurement of the optical properties of the
+material from which emissivity values can be calculated. See, for example,
+Refs. 12-14.
+</span>
+<span>
+The DOAP is comprised of two components, the Polarization State Generator (PSG)
+and the Polarization State Detector (PSD). The PSG is used to calibrate the PSD
+for precise measurement of the complete polarization state of detected light. For
+optical property measurements, linearly polarized light from the PSG is reflected
+from levitated samples, and the reflected light is measured by the PSD at a known
+included angle. For measurements on levitated liquids, precise alignment is not
+required. The curved surface always sends light to the PSD.
+</span>
+<span>
+Thus, accurate determination of sample temperatures by non-contact techniques
+require two measurements. First, a precise measurement of apparent temperature,
+Ta, is obtained by optical pyrometry. This temperature differs from the true
+temperature, T, depending on the material emissivity. For narrow-band optical
+pyrometry at a wavelength, λ, in the Wein’s law regime, with emissivity, ε(λ),
+the true temperature is given by:
+</span>
+<span>
+<img src="img/weins_law.png" />
+</span>
+<span>
+with temperatures in degrees Kelvin (K), C2 = 1.4388 cm K. The emissivity
+correction can be substantial. For example, with T = 3000K, λ = 650 nm,
+and ε(λ) = 0.5, Ta would equal 2742K.
+</span>
+<span>
+The DOAP employs a modulated light source and narrow-band filters to eliminate
+interference by incandescent light from hot samples. It is capable of measurements
+at kHz rates, so that true temperature and optical property values are obtained in
+rapid cooling and heating experiments.
+</span>
+</div>
+
+<div class="scol">
+<h2>References</h2>
+<span>
+<ol>
+<li>Weber, J.K.R., D. S. Hampton, D. R. Merkley, C. A. Rey, M. M. Zatarski, and P. C. Nordine, "Aero-acoustic levitation - A method for containerless liquid-phase processing at high temperatures," Rev. Sci. Instrumen. 65, 456-465 (1994).</li><li>Weber, J.K.R., J.J. Felten, B. Cho and P.C. Nordine, "Design and Performance of the Aero-Acoustic Levitator, J. Jpn. Soc. Microgravity Appl. 13, 27-35 (1996).</li><li>Merkley, D.R., C.A. Rey, T.J. Danley, <a href="http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&co1=AND&d=PTXT&s1=Rey.INNM.&s2=Merkley.INNM.&OS=IN/Rey+AND+IN/Merkley&RS=IN/Rey+AND+IN/Merkley">Method and apparatus for stabilizing levitated objects</a>, US Patent 5,257,676 (1992).</li><li>Rey, C.A. and D.R. Merkley, <a href="http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=2&f=G&l=50&co1=AND&d=PTXT&s1=Rey.INNM.&s2=Merkley.INNM.&OS=IN/Rey+AND+IN/Merkley&RS=IN/Rey+AND+IN/Merkley">Aero-acoustic levitation device and method</a>, US Patent 5,096,017 (1991).</li><li>Danley, T.J., D.R. Merkley, C.A. Rey, <a href="http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=3&f=G&l=50&co1=AND&d=PTXT&s1=Rey.INNM.&s2=Merkley.INNM.&OS=IN/Rey+AND+IN/Merkley&RS=IN/Rey+AND+IN/Merkley">Method and apparatus for acoustic levitation</a>, US Patent 5,036,944 (1991).</li><li>Danley, T.J, D.R. Merkley, C.A. Rey, <a href="http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=4&f=G&l=50&co1=AND&d=PTXT&s1=Rey.INNM.&s2=Merkley.INNM.&OS=IN/Rey+AND+IN/Merkley&RS=IN/Rey+AND+IN/Merkley">Transducer for producing sound of very high intensity</a>, US Patent 4,757,227 (1988).</li><li>Rosner, D. E., and P. C. Nordine, "Mass Transport Requirements and a New Technique for Studying the Intrinsic Kinetics of High Temperature Gas/Liquid Reactions," in R. M. Fisher, R. A. Oriani, and E. T. Turkdogan, eds., Physical Chemistry in Metallurgy, Proceedings of the Darken Conference, U.S. Steel Corporation, Monroeville, Pennsylvania (1976), pp. 496-499.</li><li>Winborne, D. A., P. C. Nordine, D. E. Rosner, and N. F. Marley, "Aerodynamic Levitation Technique for Containerless High Temperature Studies on Isolated Liquid and Solid Samples," Metall. Trans. 7B, 711 (1976).</li><li>Nordine, P. C., and R. M. Atkins, "Aerodynamic Levitation of Laser Heated Solids in Gas Jets," Rev. Sci. Instrumen. 53, 1456 (1982).</li><li>S. Krishnan, "Calibration, Properties, and Applications of the Division-of-Amplitude Photopolarimeter at 632.8 and 1523 nm", J. Opt. Soc. Am. A9, 1615-1622 (1992).</li><li>Krishnan, S., and P. C. Nordine, "Mueller-Matrix Ellipsometry using the Division-of-Amplitude Photopolarimeter: A study of Depolarization Effects," Appl. Optics 33, 4184-92 (1994).</li>
+<li>Krishnan, S., J. K. R. Weber, R. A. Schiffman, P. C. Nordine, and R. A. Reed, "Refractive Index of Liquid Aluminum Oxide at 0.6328 μm," J. Am. Ceram. Soc. 74, 881 (1991).</li>
+<li>S. Krishnan, C. D. Anderson, J. K. R. Weber, P. C. Nordine, W. H. Hofmeister, and R. J. Bayuzick, "Optical Properties and Spectral Emissivities at 632.8 nm in the Titanium-Aluminum System," Metall. Trans 24A, 67-72 (1993).</li>
+<li>R.I. Sheldon, G.H. Rinehart, J.C. Lashley, C.E. Van Pelt, P.C. Nordine, S. Krishnan, J.K.R. Weber, "The optical properties of liquid plutonium at 632.8 nm", J. Nucl. Mat. 312, 207 211 (2003).</li>
+</ol>
+</span>
+</div>
+
+</div>
+
+</div>
+</article>
+
+<footer>
+<div class="footer">
+<div class="copyright">
+<span>&copy; 2011 Physical Property Measurements, Inc.  Evanston, IL</span>
+</div>
+</div>
+</footer>
+
+</div>
+
+</body>
+</html>

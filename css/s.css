@@ -1,0 +1,80 @@
+/* Web form styles */
+
+input[type='text'],
+input[type='textarea'],
+textarea {
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px;
+	border-radius: 3px;
+	border: 1px solid #ccc;
+	font-size: inherit;
+	color: inherit;
+	padding: 3px;
+}
+
+ul li input {
+	padding-left: .25pt;
+}
+
+fieldset {
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+	border: 1px solid #ccc;
+	background: #F5F5F5;
+	margin: 0 auto 18px;
+	padding: 9px 18px;
+	width: 80%;
+}
+
+.mkform {
+	padding-top: 12pt;
+	width: 540px;
+}
+
+.mkform ul, .mkform li {
+	list-style: none;
+	margin: 0 0 18px;
+}
+
+.mkform li {
+	margin: 0;
+	padding: 5px;
+}
+
+.mkform label {
+	display: inline-block;
+	text-align: left;
+	width: 30%;
+	font-weight: bold;
+}
+
+.mkform input {
+	width: 280px;
+}
+
+.mkform textarea {
+	vertical-align: middle;
+	text-align: left;
+}
+
+#emailus h2 {
+	color: #930f04;
+	font-size: 12pt;
+	font-weight: bold;
+	line-height: 14pt;
+	margin-bottom: 12pt;
+}
+
+.error {
+	color: #EC2919;
+	font-size: 10pt;
+}
+
+.error span {
+	font-size: 10pt;
+}
+
+#mkformsubmit {
+	width: auto;
+}

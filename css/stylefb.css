@@ -1,0 +1,116 @@
+.fancy {
+	width: 800px;
+}
+
+.fancy h3 {
+	padding-top: 8px;
+}
+
+.fancy hr {
+	border: none;
+	height: 1px; line-height: 1px;
+	background: #E5E5E5;
+	margin-bottom: 20px;
+	padding: 0;
+}
+
+.fancy p {
+	text-align: left;
+	margin-left: 20px;
+}
+
+.fancy a img {
+	border: 1px solid #BBB;
+	padding: 2px;
+	margin: 10px 20px 10px 0;
+	vertical-align: top;
+}
+
+.fancy a img.last {
+	margin-right: 0;	
+}
+
+.fancy ul {
+	margin-bottom: 24px;
+	padding-left: 30px;
+}
+
+figcaption:before {
+	content:  "Figure " counter(figno) ". ";
+}
+
+figure {
+	counter-increment: figno;
+	text-align: center;
+	padding-bottom: 2em;
+	clear: both;
+}
+
+figcaption {
+	display: block;
+	text-align: center;
+}
+
+#fancybox-title-inside span{
+	font-size: smaller;
+}
+
+.middle-vertical {
+	vertical-align: middle;
+	margin-right: 20px;
+}
+
+.pixel-tweak {
+	/* Without this, the <video> elements are somehow positioned a pixel or two differently than the <img>'s. */
+	margin-top: 0px;
+}
+
+div#videos {
+	display: block;
+}
+
+#videos .rule {
+	width:310px;
+	margin: -18px 0 21px 78px;	
+	border: none;
+	height: 1px; line-height: 1px;
+	background: #E5E5E5;
+}
+
+/* Video section */
+div.video-link {
+	clear: both;
+	padding-bottom: 2em;
+}
+
+div.desc {
+	padding-top: 10px;
+	text-align: left;
+}
+
+a.video img {
+	float: left;
+	clear: none;
+	margin-bottom: 0;
+	margin-top: 8px;
+	margin-left: 8px;
+}
+
+div.downloads:before {
+	content:  "Download:";	
+}
+
+div.downloads {
+	font-size: smaller;
+	width: 118px;
+	padding-bottom: 15px;
+	padding-left: 10px;
+	padding-right: 10px;
+	clear: left;
+	float: left;
+}
+
+#videos div.video-link div.desc ul li {
+	list-style-type: disc;
+	list-style-position: inside;
+}

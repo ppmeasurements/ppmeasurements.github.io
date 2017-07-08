@@ -1,0 +1,315 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="author" content="Jeff Sickel, Corpus Callosum Corpoation">
+<meta name="robots" content="AAL">
+<meta name="keywords" content="levitation, containerless materials processing, high temperature melts, aero-acoustic levitator">
+<title>Physical Property Measurements: Images</title>
+<!-- <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7, IE=9">-->
+<link rel="stylesheet" href="css/style.css" type="text/css" media="all" />
+<link rel="stylesheet" href="css/content.css" type="text/css" media="all" />
+<link rel="stylesheet" href="css/stylefb.css" type="text/css" media="screen" />
+<link rel="icon" type="image/x-icon" href="favicon.ico">
+<script type="text/javascript" src="js/jquery-1.6.1.min.js"></script>
+<script type="text/javascript" src="js/fancybox-1.3.4/jquery.easing-1.3.pack.js"></script>
+<script type="text/javascript" src="js/fancybox-1.3.4/jquery.mousewheel-3.0.4.pack.js"></script>
+
+<script type="text/javascript" src="js/fancybox-1.3.4/jquery.fancybox-1.3.4.js"></script>
+    <link rel="stylesheet" type="text/css" href="js/fancybox-1.3.4/jquery.fancybox-1.3.4.css" media="screen" />
+<script type="text/javascript" src="js/modernizr-1.7.min.js"></script>
+<script type="text/javascript" src="js/web.js"></script>
+<script src="/js/ga.js" type="text/javascript"></script>
+</head>
+<body class="inter">
+<div class="wrapper">
+<header>
+<div class="header">
+<div class="logo fl">
+<h1><span>Physical Property Measurements</span><a href="index.html"><img src="img/ppm_logo.png" alt="" title="PPM"/></a><img src="img/navframe.png" /></h1>
+</div>
+<div class="menu fl">
+<ul id="nav" class="menu fr" role="navigation">
+	<li class="nl"><a title="Story" href="story.html">Story</a></li>
+	<li><a title="Applications" href="apps.html">Applications</a></li>
+	<li class="subdec"><a title="Media" href="#">Media</a>
+		<ul>
+		<li><a title="Media > Images" href="images.html">Images</a></li>
+		<li><a title="Media > Videos" href="videos.html">Videos</a></li>
+		</ul>
+	</li>
+	<li class="subdec"><a class="hunder" title="Team" href="team.html">Team</a>
+		<ul>
+		<li><a title="Team > Credits" href="credits.html">Credits</a>
+		</li>
+		</ul>
+	</li>
+	<li><a title="Contact" href="contact.html">Contact</a></li>
+</ul>
+</div>
+</div>
+</header>
+
+<article>
+<div class="content">
+<div class="tiframe">
+<div class="tlineart fl"><img id="title" src="img/images.png" alt="AAL Images"/></div>
+<div class="tbrochure fr"><a href="docs/aal_brochure.pdf"><img src="img/pdf_doc_icon.png" alt="AAL Brochure" title="AAL Brochure"/></a></div>
+<div class="detail fancy fl">
+
+<div class="idetail">
+
+<div class="bpad clear">
+<h3><img src="img/i_acoustic.png" alt="Acoustic alignment/levitation" /></h3>
+<div class="grow">
+<div class="heads fl">
+<ul>
+<li>
+<img src="img/hs_dennis.png"/>
+<span><b><a href="team.html#bio_dennis">Dennis Merkley</a></b><br/ >
+AAL inventor, managed PPM's AAL development project.</span>
+</li></ul>
+</div>
+<div class="montage">
+<ul>
+<li>
+	<img  alt="Al2O3" src="images/IMG_1556v2_s.jpg"/>
+	<a class="montage" rel="hot" href="images/IMG_1556v2.jpg"><img class="preview" alt="Al2O3" src="images/IMG_1556v2_p.jpg"/></a>
+</li>
+<li>
+	<img alt="AAL" src="images/SDIM4816v2_s.jpg"/>
+	<a class="montage" rel="hot" href="images/SDIM4816v2.jpg"><img class="preview" alt="AAL" src="images/SDIM4816v2_p.jpg"/></a>
+</li>
+<li>
+	<img alt="AAL" src="images/SDIM4821v2_s.jpg"/>
+	<a class="montage" rel="hot" href="images/SDIM4821v2.jpg"><img class="preview" alt="AAL" src="images/SDIM4821v2_p.jpg"/></a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+
+<div class="bpad clear">
+<h3><img src="img/i_mech.png" alt="Mechanical systems/components" /></h3>
+<div class="grow">
+<div class="heads fl">
+<ul><li>
+<img src="img/hs_jim.png"/>
+<span><b><a href="team.html#bio_jim">James Rix</a></b><br />
+designed and assembled AAL structural components.</span>
+</li></ul>
+</div>
+<div class="montage">
+<ul>
+<li>
+	<img alt="AAL" src="images/055_s.jpg"/>
+	<a class="montage" rel="c_group" href="images/055.jpg" title="The aero-acoustic levitator"><img class="preview" alt="AAL" src="images/055_p.jpg"/></a>
+</li>
+<li>
+	<img alt="AAL" src="images/DSC_7959_s.jpg"/>
+	<a class="montage" rel="c_group" href="images/DSC_7959.jpg" title="Acoustic transducers in situ"><img class="preview" all="AAL" src="images/DSC_7959_p.jpg"/></a>
+</li>
+<li>
+	<img alt="AAL hearth melter" src="images/hearth_wp_s.jpg"/>
+	<a class="montage" rel="c_group" href="images/hearth_wp.jpg" title="Hearth melter"><img class="preview" alt="AAL hearth melter" src="images/hearth_wp_p.jpg"/></a>
+</li>
+<li>
+	<img alt="AAL" src="images/DSC_8015_s.jpg"/>
+	<a class="montage" rel="c_group" href="images/DSC_8015.jpg" title="Hearth melter in use"><img class="preview" alt="AAL" src="images/DSC_8015_p.jpg"/></a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+
+<div class="bpad clear">
+<h3><img src="img/i_custom.png" alt="Custom electronics" /></h3>
+<div class="grow">
+<div class="heads fl">
+<ul><li>
+<img src="img/hs_john.png"/>
+<span><b><a href="team.html#bio_john">John DeVos</a></b><br />
+completed and debugged the AAL digital control system electronics.
+</span>
+</li></ul>
+</div>
+<div class="montage">
+<ul>
+<li>
+	<img src="images/e/PowerPanelInt_s.jpg" alt=""/>
+	<a class="montage" rel="e_group" href="images/e/PowerPanelInt.jpg" title="Power distribution panel (internal)"><img class="preview" src="images/e/PowerPanelInt_p.jpg" alt=""/></a>
+</li>
+</ul>
+<table class="images">
+<tr><td>
+<ul>
+<li>
+	<img src="images/e/SDIM4894_s.jpg" alt=""/>
+	<a class="montage" rel="e_group" href="images/e/SDIM4894.jpg" title="Digital communications and transducer control module"><img class="preview" src="images/e/SDIM4894_p.jpg" alt=""/></a>
+</li>
+<li>
+	<img src="images/e/DSC_7899_s.jpg" alt=""/>
+	<a class="montage" rel="e_group" href="images/e/DSC_7899.jpg" title="Analog electronics-position sensor"><img class="preview" src="images/e/DSC_7899_p.jpg" alt=""/></a>
+</li>
+<li>
+	<img src="images/e/DSC_7892v2_s.jpg" alt=""/>
+	<a class="montage" rel="e_group" href="images/e/DSC_7892v2.jpg" title="Digital electronics-position sensor"><img class="preview" src="images/e/DSC_7892v2_p.jpg" alt=""/></a>
+</li>
+</ul></td></tr>
+<tr><td>
+<ul>
+<li>
+	<img src="images/e/DSC_7893v2_s.jpg" alt=""/>
+	<a class="montage" rel="e_group" href="images/e/DSC_7893v2.jpg" title="Analog electronics-position sensor"><img class="preview" src="images/e/DSC_7893v2_p.jpg" alt=""/></a>
+</li>
+<li>
+	<img src="images/e/DSC_7886v2_s.jpg" alt=""/>
+	<a class="montage" rel="e_group" href="images/e/DSC_7886v2.jpg" title="Digital communications board"><img class="preview" src="images/e/DSC_7886v2_p.jpg" alt=""/></a>
+</li>
+<li>
+	<img src="images/e/DSC_7888v2_s.jpg" alt=""/>
+	<a class="montage" rel="e_group" href="images/e/DSC_7888v2.jpg" title="Digital transducer control board"><img class="preview" src="images/e/DSC_7888v2_p.jpg" alt=""/></a>
+</li>
+</ul>
+</td></tr>
+</table>
+</div>
+</div>
+</div>
+
+<div class="bpad clear">
+<h3><img src="img/i_firmware.png" alt="Firmware/software" /></h3>
+<div class="grow">
+<div class="heads fl">
+<ul><li>
+<img src="img/hs_jeff.png"/>
+<span><b><a href="team.html#bio_jeff">Jeff Sickel</a></b><br />
+designed and developed the AAL digital control software.
+</span>
+</li></ul>
+</div>
+<div class="montage">
+<ul>
+<li>
+	<img src="images/ui/AALPyro_s.jpg" alt=""/>
+	<a class="montage" rel="ui_group" href="images/ui/AALPyro.png" title="Pyrometer focus and readout"><img class="preview" src="images/ui/AALPyro_p.jpg" alt=""/></a>
+</li>
+</ul>
+<table class="images">
+<tr><td>
+<ul>
+<li>
+	<img src="images/ui/AALConsole_s.jpg" alt=""/>
+	<a class="montage" rel="ui_group" href="images/ui/AALConsole.png" title="Acoustic controller console"><img class="preview" src="images/ui/AALConsole_p.jpg" alt=""/></a>
+</li>
+<li>
+	<img src="images/ui/AALScope_s.jpg" alt=""/>
+	<a class="montage" rel="ui_group" href="images/ui/AALScope.png" title="Acoustic oscilloscope"><img class="preview" src="images/ui/AALScope_p.jpg" alt=""/></a>
+</li>
+</ul>
+</td></tr>
+<tr><td>
+<ul>
+<li>
+	<img src="images/ui/AALSensors_s.jpg" alt=""/>
+	<a class="montage" rel="ui_group" href="images/ui/AALSensors.png" title="Sensor feedback control"><img class="preview" src="images/ui/AALSensors_p.jpg" alt=""/></a>
+</li>
+<li>
+	<img src="images/ui/UC2K_s.jpg" alt=""/>
+	<a class="montage" rel="ui_group" href="images/ui/UC2K.png" title="Laser control"><img class="preview" src="images/ui/UC2K_p.jpg" alt=""/></a>
+</li>
+</ul>
+</td></tr>
+</table>
+</div>
+</div>
+</div>
+
+<div class="clear">
+<h3><img src="img/i_rd.png" alt="R&D" /></h3>
+<div class="grow">
+<div class="heads fl">
+<ul><li>
+<img src="img/hs_paul.png"/>
+<span><b><a href="team.html#bio_paul">Paul Nordine</a></b><br />
+President of PPM, and high temperature materials scientist.
+</span>
+</li></ul>
+</div>
+<div class="montage">
+<ul>
+<li>
+	<img src="images/s/LAG_glass_s.jpg" alt=""/>
+	<a class="montage" rel="s_group" href="images/s/LAG_glass.jpg" title="La3Al5O12 glass"><img class="preview" src="images/s/LAG_glass_p.jpg" alt=""/></a>
+</li>
+<li>
+	<img src="images/s/YAG_ErAG_glass_s.jpg" alt=""/>
+	<a class="montage" rel="s_group" href="images/s/YAG_ErAG_glass.jpg" title="Y3Al5O12 and Er3Al5O12 glass"><img class="preview" src="images/s/YAG_ErAG_glass_p.jpg" alt="YAG and ErAG" title="Y3Al5O12 and Er3Al5O12 glass"/></a><br/>
+</li>
+</ul>
+<table class="images">
+<tr><td>
+<ul>
+<li>
+	<img src="images/s/HfO2_2910C_s.jpg" alt=""/>
+	<a class="montage" rel="s_group" href="images/s/HfO2_2910C.jpg" title="Liquid HfO2 at 2910 °C"><img class="preview" src="images/s/HfO2_2910C_p.jpg" alt=""/></a>
+</li>
+<li>
+	<img src="images/s/Al2O3_3200C_s.jpg" alt=""/>
+	<a class="montage" rel="s_group" href="images/s/Al2O3_3200C.jpg" title="Liquid Al2O3 at 3200 °C"><img class="preview" src="images/s/Al2O3_3200C_p.jpg" alt=""/></a>
+</li>
+<li>
+	<img src="images/s/Al2O3_w_saph_fib_s.jpg" alt=""/>
+	<a class="montage" rel="s_group" href="images/s/Al2O3_w_saph_fib.jpg" title="Solid Al2O3 on a sapphire fiber"><img class="preview" src="images/s/Al2O3_w_saph_fib_p.jpg" alt=""/></a>
+</li>
+<li>
+	<img class="last" src="images/s/ZrSiO4_microstructure_s.jpg" alt=""/>
+	<a class="montage" rel="s_group" href="images/s/ZrSiO4_microstructure.png" title="ZrSiO4 microstructure"><img class="preview" src="images/s/ZrSiO4_microstructure_p.jpg" alt=""/></a>
+</li>
+</ul>
+</td></tr>
+<tr><td>
+<ul>
+<li>
+	<img src="images/s/YAG_1700C_squeezed_s.jpg" alt=""/>
+	<a class="montage" rel="s_group" href="images/s/YAG_1700C_squeezed.jpg" title="Liquid YAG at 1700 °C acoustically squeezed"><img class="preview" src="images/s/YAG_1700C_squeezed_p.jpg" alt=""/></a>
+</li>
+<li>
+	<img src="images/s/YAG_1700C_relaxed_s.jpg" alt=""/>
+	<a class="montage" rel="s_group" href="images/s/YAG_1700C_relaxed.jpg" title="Liquid YAG at 1700 °C acoustically relaxed"><img class="preview" src="images/s/YAG_1700C_relaxed_p.jpg" alt=""/></a><br/>
+</li>
+<li>
+	<img src="images/s/YAG_f-2184_s.jpg" alt=""/>
+	<a class="montage" rel="s_group" href="images/s/YAG_f-2184.jpg" title="YAG slow crystallization frame"><img class="preview" src="images/s/YAG_f-2184_p.jpg" alt=""/></a>
+</li>
+<li>
+	<img class="last" src="images/s/Y2O3_f1044_s.jpg" alt=""/>
+	<a class="montage" rel="s_group" href="images/s/Y2O3_f1044.jpg" title="Y2O3 during the hexagonal to cubic phase transition at 2330° C"><img class="preview" src="images/s/Y2O3_f1044_p.jpg" alt=""/></a>
+</li>
+</ul>
+</td></tr>
+</table>
+</div>
+</div>
+</div>
+
+</div>
+
+</div>
+</div>
+</div>
+</article>
+
+<footer>
+<div class="footer">
+<div class="copyright">
+<span>&copy; 2011 Physical Property Measurements, Inc.  Evanston, IL</span>
+</div>
+</div>
+</footer>
+
+</div>
+
+</body>
+</html>
